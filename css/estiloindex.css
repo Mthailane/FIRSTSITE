@@ -63,3 +63,10 @@ a:hover, a:active{
 }.info #info #ta{
     margin-left: 221%;
 }
+footer p{
+    text-align: center;
+    color: white;
+    background-color: #000;
+    align-self: center;
+    font-family: monospace;
+}
